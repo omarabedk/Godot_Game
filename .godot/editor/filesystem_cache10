@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1747661464
+::res://::1748002972
 default_bus_layout.tres::AudioBusLayout/AudioBusLayout::4433264395374032233::1747423729::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D/CompressedTexture2D::4023347029124790369::1747399886::1747399893::1::::<><><>0<>0<>40168b960f7545bfd4ec256956fc52f4<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://assets/::1747400535
@@ -23,13 +23,13 @@ platforms.png::CompressedTexture2D/CompressedTexture2D::6342155689342341118::174
 slime_green.png::CompressedTexture2D/CompressedTexture2D::6391456980220734705::1747400535::1747400535::1::::<><><>0<>0<>eedc6ebed000ee4cc86ea0e6be90cb82<>res://.godot/imported/slime_green.png-f6349164bf3a0f5189bb927b97af9c58.ctex::
 slime_purple.png::CompressedTexture2D/CompressedTexture2D::1492774498490661302::1747400535::1747400535::1::::<><><>0<>0<>51280c7445223ccb84f5496386f87870<>res://.godot/imported/slime_purple.png-26dc5ddef235ce6a400e78e0d532b050.ctex::
 world_tileset.png::CompressedTexture2D/CompressedTexture2D::5668023834312737193::1747400535::1747400535::1::::<><><>0<>0<>e8fe0daac8f0dbebcd716040111ac13e<>res://.godot/imported/world_tileset.png-61a32465f33c3d9d3bfecb75b6485009.ctex::
-::res://scenes/::1747658585
-coin.tscn::PackedScene::8045679235569913268::1747658585::0::1::::<><><>0<>0<><>::uid://c4j47c34qb6pi::::res://scripts/coin.gd<>uid://cukkkfgxvi7da::::res://assets/sprites/coin.png
-game.tscn::PackedScene::5685803557619815296::1747658585::0::1::::<><><>0<>0<><>::uid://cvfxxoxitjxpx::::res://scripts/game_manager.gd<>uid://x0jhybb2nicv::::res://scenes/player.tscn<>uid://cm0vr3ixmwp2h::::res://assets/sprites/world_tileset.png<>uid://cop6y0i44epst::::res://scenes/platform.tscn<>uid://dmvnfqyo314sm::::res://scenes/coin.tscn<>uid://x6mc8clpu4bq::::res://scenes/killzone.tscn<>uid://nyma8k4045gk::::res://scenes/slime.tscn<>uid://bxo4ijbmoioim::::res://assets/fonts/PixelOperator8.ttf
-killzone.tscn::PackedScene::1679073026432423190::1747658585::0::1::::<><><>0<>0<><>::uid://i7u8bsl3na1i::::res://scripts/killzone.gd
-platform.tscn::PackedScene::5788377257257775171::1747658585::0::1::::<><><>0<>0<><>::uid://cwmgm3rknbf15::::res://assets/sprites/platforms.png
-player.tscn::PackedScene::1666513063205716337::1747658585::0::1::::<><><>0<>0<><>::uid://bdlcd5uy3yv8t::::res://assets/sprites/knight.png<>uid://bt6mvx6jhlf5q::::res://scripts/player.gd
-slime.tscn::PackedScene::962730387375862502::1747658585::0::1::::<><><>0<>0<><>::uid://cxccmliar7mi8::::res://assets/sprites/slime_green.png<>uid://x6mc8clpu4bq::::res://scenes/killzone.tscn
+::res://scenes/::1747898534
+coin.tscn::PackedScene::8045679235569913268::1747898534::0::1::::<><><>0<>0<><>::uid://c4j47c34qb6pi::::res://scripts/coin.gd<>uid://cukkkfgxvi7da::::res://assets/sprites/coin.png
+game.tscn::PackedScene::5685803557619815296::1747898534::0::1::::<><><>0<>0<><>::uid://cvfxxoxitjxpx::::res://scripts/game_manager.gd<>uid://x0jhybb2nicv::::res://scenes/player.tscn<>uid://cm0vr3ixmwp2h::::res://assets/sprites/world_tileset.png<>uid://cop6y0i44epst::::res://scenes/platform.tscn<>uid://dmvnfqyo314sm::::res://scenes/coin.tscn<>uid://x6mc8clpu4bq::::res://scenes/killzone.tscn<>uid://nyma8k4045gk::::res://scenes/slime.tscn<>uid://bxo4ijbmoioim::::res://assets/fonts/PixelOperator8.ttf
+killzone.tscn::PackedScene::1679073026432423190::1747898534::0::1::::<><><>0<>0<><>::uid://i7u8bsl3na1i::::res://scripts/killzone.gd
+platform.tscn::PackedScene::5788377257257775171::1747898534::0::1::::<><><>0<>0<><>::uid://cwmgm3rknbf15::::res://assets/sprites/platforms.png
+player.tscn::PackedScene::1666513063205716337::1747898534::0::1::::<><><>0<>0<><>::uid://bdlcd5uy3yv8t::::res://assets/sprites/knight.png<>uid://bt6mvx6jhlf5q::::res://scripts/player.gd
+slime.tscn::PackedScene::962730387375862502::1747898534::0::1::::<><><>0<>0<><>::uid://cxccmliar7mi8::::res://assets/sprites/slime_green.png<>uid://x6mc8clpu4bq::::res://scenes/killzone.tscn
 ::res://scripts/::1747424931
 coin.gd::GDScript/GDScript::6828715320511171626::1747424931::0::1::::<>Area2D<><>0<>0<><>::
 game_manager.gd::GDScript/GDScript::6258567307895280553::1747423383::0::1::::<>Node<><>0<>0<><>::
